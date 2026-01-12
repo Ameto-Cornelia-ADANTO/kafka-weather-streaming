@@ -1,0 +1,333 @@
+{
+  "city": "Paris",
+  "country": "France",
+  "original_profile": {
+    "1": {
+      "avg_temperature": 11.0,
+      "avg_windspeed": 7.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Janvier"
+    },
+    "2": {
+      "avg_temperature": 12.5,
+      "avg_windspeed": 7.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "F\u00e9vrier"
+    },
+    "3": {
+      "avg_temperature": 14.0,
+      "avg_windspeed": 6.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Mars"
+    },
+    "4": {
+      "avg_temperature": 15.5,
+      "avg_windspeed": 6.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Avril"
+    },
+    "5": {
+      "avg_temperature": 17.0,
+      "avg_windspeed": 5.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Mai"
+    },
+    "6": {
+      "avg_temperature": 18.5,
+      "avg_windspeed": 5.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Juin"
+    },
+    "7": {
+      "avg_temperature": 20.0,
+      "avg_windspeed": 5.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Juillet"
+    },
+    "8": {
+      "avg_temperature": 21.5,
+      "avg_windspeed": 6.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Ao\u00fbt"
+    },
+    "9": {
+      "avg_temperature": 23.0,
+      "avg_windspeed": 6.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Septembre"
+    },
+    "10": {
+      "avg_temperature": 24.5,
+      "avg_windspeed": 7.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Octobre"
+    },
+    "11": {
+      "avg_temperature": 26.0,
+      "avg_windspeed": 7.5,
+      "alert_probability": 0.07142857142857142,
+      "data_points": 84,
+      "month_name": "Novembre"
+    },
+    "12": {
+      "avg_temperature": 27.5,
+      "avg_windspeed": 8.0,
+      "alert_probability": 0.17857142857142858,
+      "data_points": 84,
+      "month_name": "D\u00e9cembre"
+    }
+  },
+  "enriched_profile": {
+    "1": {
+      "avg_temperature": 11.0,
+      "avg_windspeed": 7.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Janvier",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "2": {
+      "avg_temperature": 12.5,
+      "avg_windspeed": 7.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "F\u00e9vrier",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "3": {
+      "avg_temperature": 14.0,
+      "avg_windspeed": 6.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Mars",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "4": {
+      "avg_temperature": 15.5,
+      "avg_windspeed": 6.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Avril",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "5": {
+      "avg_temperature": 17.0,
+      "avg_windspeed": 5.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Mai",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "6": {
+      "avg_temperature": 18.5,
+      "avg_windspeed": 5.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Juin",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "7": {
+      "avg_temperature": 20.0,
+      "avg_windspeed": 5.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Juillet",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "8": {
+      "avg_temperature": 21.5,
+      "avg_windspeed": 6.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Ao\u00fbt",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "9": {
+      "avg_temperature": 23.0,
+      "avg_windspeed": 6.5,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Septembre",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "10": {
+      "avg_temperature": 24.5,
+      "avg_windspeed": 7.0,
+      "alert_probability": 0.0,
+      "data_points": 84,
+      "month_name": "Octobre",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "11": {
+      "avg_temperature": 26.0,
+      "avg_windspeed": 7.5,
+      "alert_probability": 0.07142857142857142,
+      "data_points": 84,
+      "month_name": "Novembre",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "12": {
+      "avg_temperature": 27.5,
+      "avg_windspeed": 8.0,
+      "alert_probability": 0.17857142857142858,
+      "data_points": 84,
+      "month_name": "D\u00e9cembre",
+      "temperature_stats": {
+        "std": 5.408326913195984,
+        "min": 11.0,
+        "max": 27.5,
+        "median": 19.25
+      },
+      "windspeed_stats": {
+        "std": 0.9293203772845852,
+        "min": 5.0,
+        "max": 8.0,
+        "median": 6.5
+      }
+    },
+    "_global_stats": {
+      "annual_avg_temperature": 19.25,
+      "annual_avg_windspeed": 6.5,
+      "temperature_variability": 5.408326913195984,
+      "enriched_at": "2026-01-12T16:03:52.535724"
+    }
+  },
+  "validation_result": {
+    "is_valid": true,
+    "issues": [],
+    "warnings": [],
+    "checked_at": "2026-01-12T16:03:52.523724"
+  },
+  "enriched_at": "2026-01-12T16:03:52.537732"
+}
